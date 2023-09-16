@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a PhD candidate at University of Florida. I'm currently working on atomistic Molecular Dynamics simulations on biomolecules. I'm skilled in utilizing Molecular Dynamics software such as AMBER, NAMD, and GROMACS.
 <!--
 **dim-99/dim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
